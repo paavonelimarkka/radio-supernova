@@ -1,6 +1,8 @@
 # Radio Supernova
 
-Our Global Game Jam 2018 (GGJX) entry.
+Our Global Game Jam 2018 (FGJX) entry.
+
+Play the web-gl version [here]().
 
 ## Jammers
 
