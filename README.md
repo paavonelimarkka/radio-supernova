@@ -21,3 +21,8 @@ Your orders are simple:
 - Take great care not to hit anything during your mission!
 
 **Controls:** Envirobear 2000
+
+## Screenshots
+
+![](https://github.com/paavonelimarkka/radio-supernova/blob/master/screenshot1.png?raw=true)
+![](https://github.com/paavonelimarkka/radio-supernova/blob/master/screenshot2.png?raw=true)
