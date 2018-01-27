@@ -18,4 +18,4 @@ Your orders are simple:
 - Notify humans of your presence! Use energy to contact them via radio towers.
 - Take great care not to hit anything during your mission!
 
-Controls: Envirobear 2000
+**Controls:** Envirobear 2000
