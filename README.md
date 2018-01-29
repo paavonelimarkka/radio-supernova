@@ -2,7 +2,7 @@
 
 Our Global Game Jam 2018 (FGJX) entry.
 
-[Play the web-gl version here!](https://paavonelimarkka.github.io/radio-supernova/).
+[Play the web-gl version here!](https://paavonelimarkka.github.io/radio-supernova/)
 
 ## Jammers
 
