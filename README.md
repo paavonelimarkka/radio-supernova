@@ -6,7 +6,7 @@ Play the web-gl version [here](https://paavonelimarkka.github.io/radio-supernova
 
 ## Jammers
 
-- [tanelit](https://github.com/tanelir): Code
+- [tanelir](https://github.com/tanelir): Code
 - [juhotalus](https://github.com/juhotalus): Code
 - [paavonelimarkka](https://github.com/paavonelimarkka): GFX & Code
 - [camelfunk](https://github.com/camelfunk): Music & SFX
